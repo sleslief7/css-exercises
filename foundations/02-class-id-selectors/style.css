@@ -1,0 +1,15 @@
+.classes {
+    background-color: #F5A7A7;
+    font-family: Verdana, "DesaVu Sans", sans-serif;
+}
+#id1 {
+    color: #3F00FF;
+    font-size: 36px;
+}
+.classes.cooler, #id2 {
+    font-size: 24px;
+}
+#id2 {
+    background-color: #80FF80;
+    font-weight: bold;
+}
